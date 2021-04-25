@@ -1,2 +1,2 @@
 # lottoprojekt2
-Somodi Konrád CSS
+Vargacz Gergő- index
